@@ -1,0 +1,6 @@
+vendor_id,vendor_name,aliases,country,tax_id,payment_terms,status
+V001,Acme Industrial Supplies Pvt Ltd,Acme Industrial;Acme Industrial Supplies;ACME,IN,27AAACA1234F1Z5,NET30,active
+V002,Northwind Logistics Ltd,Northwind;Northwind Logistics,IN,29AABCN5678G1Z2,NET45,active
+V003,Globex Technologies Inc,Globex;Globex Tech;Globex Technologies,US,45-1234567,NET30,active
+V004,Initech Software Services LLP,Initech;Initech Software,IN,07AAFFI9012H1Z8,NET30,active
+V005,Stark Office Interiors,Stark Interiors;Stark Office,IN,27AAECS4455K1Z3,NET30,suspended

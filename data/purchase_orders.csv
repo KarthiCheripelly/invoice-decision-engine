@@ -1,0 +1,9 @@
+po_number,vendor_id,vendor_name,description,currency,po_amount,status,issue_date
+PO-2026-0101,V001,Acme Industrial Supplies Pvt Ltd,Industrial fasteners and fittings,INR,184280.60,open,2026-09-12
+PO-2026-0102,V002,Northwind Logistics Ltd,Freight services - September 2026,INR,83790.00,open,2026-09-01
+PO-2026-0103,V003,Globex Technologies Inc,Annual SaaS subscription renewal,USD,24000.00,open,2026-08-20
+PO-2026-0104,V004,Initech Software Services LLP,Development services - Q4 2026 (milestone based),INR,1416000.00,open,2026-10-01
+PO-2026-0105,V001,Acme Industrial Supplies Pvt Ltd,Safety equipment for plant 2,INR,56000.00,open,2026-10-05
+PO-2026-0106,V002,Northwind Logistics Ltd,Freight services - August 2026,INR,88000.00,closed,2026-08-01
+PO-2026-0107,V003,Globex Technologies Inc,Implementation services,USD,15000.00,open,2026-09-15
+PO-2026-0108,V001,Acme Industrial Supplies Pvt Ltd,Maintenance consumables,INR,42000.00,open,2026-10-20
